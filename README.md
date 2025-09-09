@@ -65,6 +65,6 @@ Inventory Management: Plan ingredient procurement based on top-selling pizzas an
 7. Screenshots / Demos
 
 📸 Attached dashboards (Page 1 & 2):
-Page 1: ![Alt text](./main/Snapshot of Dashboard page 1.png)
+Page 1: [![Page 1](./main/Snapshot of Dashboard page 1.png)](https://github.com/PratiikJagtap/Data-Analysis-Project-1/blob/main/Snapshot%20of%20Dashboard%20page%201.png)
 Page 2: ![Page 2](https://github.com/PratiikJagtap/Data-Analysis-Project-1/blob/main/Snapshot%20of%20Dashboard%20page%202.png?raw=true)
 
